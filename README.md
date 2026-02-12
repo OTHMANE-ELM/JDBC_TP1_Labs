@@ -18,7 +18,7 @@ Mini-projet Java réalisé dans le cadre du TP JDBC pour apprendre la connexion 
 ### Test Machine : <img width="1327" height="471" alt="test m" src="https://github.com/user-attachments/assets/03b4f751-736d-4fcd-8390-0b96a8159f95" />
 
 
-### Table dans la base de données : ![base de donnees ](https://github.com/user-attachments/assets/52af61b9-59cd-47d1-9b17-b6d49479aae6)
+### Tables dans la base de données : ![base de donnees ](https://github.com/user-attachments/assets/52af61b9-59cd-47d1-9b17-b6d49479aae6)
 
 ### ![TABLES ](https://github.com/user-attachments/assets/0c764ba6-29c2-4424-8b1a-3480ce560342)
 
